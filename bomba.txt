@@ -1,0 +1,12 @@
+--------------------------------------------
+Price
+____________________________________________
+Search page				Item page
+____________________________________________
+aac-price-new 				bold7 6599.00
+aac-price-old ||aac-price-main 		product-oldprice2
+aac-price-credit 			product-credit-price
+--------------------------------------------
+Title
+____________________________________________
+product-name		title-6
